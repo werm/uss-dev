@@ -13,7 +13,7 @@ group :development do
   gem 'sqlite3'
 end
 
-# gem 'bootstrap-sass'
+gem 'authorize-net'
 gem 'anjlab-bootstrap-rails', '>= 3.0.0.0', :require => 'bootstrap-rails'
 gem 'active_shipping'
 gem 'jquery-rails'

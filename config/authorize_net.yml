@@ -1,0 +1,8 @@
+default:
+  api_login_id: SECRET
+  api_transaction_key: SECRET
+  merchant_hash_value: SECRET
+
+development: 
+test: 
+production: 
