@@ -1,0 +1,968 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"group"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"tas",
+				"tasksGroupBy4"
+			],
+			[
+				"po",
+				"posts"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"nes",
+				"nestedObj"
+			],
+			[
+				"ne",
+				"nestedObj"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fu",
+				"full_img_container"
+			],
+			[
+				"im",
+				"img_url"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"red",
+				"reddit_api_url"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"mong",
+				"mongo_client"
+			],
+			[
+				"redd",
+				"reddits"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"ga",
+				"gallery"
+			],
+			[
+				"galler",
+				"galleries"
+			],
+			[
+				"gall",
+				"gallery"
+			],
+			[
+				"thi",
+				"this"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"or",
+				"original"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"img",
+				"img_regex"
+			],
+			[
+				"collage",
+				"collagePlus"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"slid",
+				"slide_id"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sli",
+				"slide_id"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"spl",
+				"split_url"
+			],
+			[
+				"orig",
+				"original_url"
+			],
+			[
+				"imgu",
+				"imgurGallery"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"scr",
+				"script_tag"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"sty",
+				"stylesheet_tag"
+			],
+			[
+				"al",
+				"alerts"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"cle",
+				"clear-night"
+			],
+			[
+				"CL",
+				"CLEAR_DAY"
+			],
+			[
+				"ic",
+				"iconOut"
+			],
+			[
+				"c",
+				"currently"
+			],
+			[
+				"ale",
+				"alertInfo"
+			],
+			[
+				"te",
+				"tempreature"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"ext",
+				"extended"
+			],
+			[
+				"lin",
+				"linkTo"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"Reddit",
+				"RedditPics"
+			],
+			[
+				"pu",
+				"push-up"
+			],
+			[
+				"ju",
+				"jumpingJacks"
+			],
+			[
+				"jum",
+				"jumpingJacks"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"page",
+				"page_params"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"marg",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/initializers/spree.rb",
+			"settings":
+			{
+				"buffer_size": 527,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css.scss",
+			"settings":
+			{
+				"buffer_size": 548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"cdn",
+				"Cdnjs: Import Script"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/craigwermert/Sites/usasoy/uss/app/assets/stylesheets/application.css.scss",
+		"/Users/craigwermert/.oh-my-zsh/themes/craig.zsh-theme",
+		"/Users/craigwermert/Sites/side-proj/angular-app/public/controller/controllers.js",
+		"/Users/craigwermert/Sites/side-proj/angular-app/public/App.js",
+		"/Users/craigwermert/Sites/side-proj/angular-app/public/view/reddit.html",
+		"/Users/craigwermert/Sites/side-proj/angulareddit/app.rb",
+		"/Users/craigwermert/Sites/side-proj/angulareddit/js/controllers.js",
+		"/Users/craigwermert/Sites/side-proj/angular-app/public/view/userView.html",
+		"/Users/craigwermert/Sites/side-proj/interview/wordpreblem.txt",
+		"/Users/craigwermert/Sites/side-proj/interview/words.rb",
+		"/Users/craigwermert/Sites/side-proj/interview/index.html",
+		"/Users/craigwermert/Sites/side-proj/angular-app/view/view2.html",
+		"/Users/craigwermert/Sites/side-proj/angular-app/app/index.html",
+		"/Users/craigwermert/Sites/side-proj/cms/public/js/templates/new.html",
+		"/Users/craigwermert/Sites/side-proj/cms/views/pages/page.erb",
+		"/Users/craigwermert/Sites/side-proj/cms/.bowerrc",
+		"/Users/craigwermert/Sites/side-proj/cms/bower.json",
+		"/Users/craigwermert/Sites/side-proj/cms/views/_normalize.scss",
+		"/Users/craigwermert/Sites/side-proj/cms/views/delete.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/edit.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/new.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/form.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/index.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/show.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/layout.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/admin.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/mongoid.yml",
+		"/Users/craigwermert/Sites/side-proj/cms/Gemfile",
+		"/Users/craigwermert/Sites/side-proj/cms/views/assets/stylesheets/styles.scss",
+		"/Users/craigwermert/Sites/side-proj/cms/views/pages.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/index.slim",
+		"/Users/craigwermert/Sites/reddit/everything-app/public/css/editor.css",
+		"/Users/craigwermert/Sites/reddit/everything-app/public/css/menu.css",
+		"/Users/craigwermert/Sites/reddit/everything-app/vendor/bundle/gems/ruby_reddit_api-0.2.6/lib/ruby_reddit_api/base.rb",
+		"/Users/craigwermert/Sites/side-proj/reddit/public/js/collage.js",
+		"/Users/craigwermert/Sites/side-proj/reddit/public/js/wrapInChunks.js",
+		"/Users/craigwermert/Sites/side-proj/reddit/views/root.erb",
+		"/Users/craigwermert/Sites/side-proj/reddit/views/root.haml",
+		"/Users/craigwermert/Sites/side-proj/reddit/public/main.css",
+		"/Users/craigwermert/Sites/side-proj/reddit/Rakefile",
+		"/Users/craigwermert/Sites/side-proj/reddit/config/database.yml",
+		"/Users/craigwermert/Sites/side-proj/reddit/helpers.rb",
+		"/Users/craigwermert/Sites/side-proj/reddit/app.rb",
+		"/Users/craigwermert/Sites/side-proj/reddit/config.ru",
+		"/Users/craigwermert/Sites/side-proj/reddit/models.rb",
+		"/Users/craigwermert/Sites/side-proj/reddit/.rvmrc",
+		"/Users/craigwermert/Sites/side-proj/reddit/db/migrate/001_initial.rb",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/collage.js",
+		"/Users/craigwermert/Sites/side-proj/emberreddit/js/app.js",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/redditloader.js",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/glide.js",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/css/bootstrap.css",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/css/loading.css",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/css/style.css",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/skycons.js",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/dummyData.json",
+		"/Users/craigwermert/Sites/side-proj/ember/js/libs/ember-data.js",
+		"/Users/craigwermert/Sites/reddit/scraper/scraper.rb",
+		"/Volumes/Storage/Dropbox/gp-gallery.js",
+		"/Users/craigwermert/Sites/blog/js/app.js",
+		"/Users/craigwermert/Sites/blog/js/pagify.js",
+		"/Users/craigwermert/Sites/blog/_includes/root",
+		"/Users/craigwermert/Sites/blog/_plugins/git.rb",
+		"/Volumes/Storage/Documents/speed.sh",
+		"/Users/craigwermert/Sites/side/7min/assets/js/vendor/director.js",
+		"/Users/craigwermert/Sites/wiki/app/models/user.rb",
+		"/Users/craigwermert/Sites/wiki/app/views/pages/show.html.erb",
+		"/Users/craigwermert/Sites/wiki/app/views/pages/index.html.erb",
+		"/Users/craigwermert/Sites/wiki/app/views/devise/registrations/new.html.erb",
+		"/Users/craigwermert/Sites/wiki/app/controllers/pages_controller.rb",
+		"/Users/craigwermert/Sites/wiki/app/models/revision.rb",
+		"/Users/craigwermert/Sites/wiki/app/models/page.rb",
+		"/Users/craigwermert/Sites/wiki/app/assets/stylesheets/home.css.scss",
+		"/Users/craigwermert/Sites/wiki/app/views/pages/_form.html.erb",
+		"/Users/craigwermert/Sites/wiki/app/views/layouts/application.html.erb",
+		"/Users/craigwermert/Sites/wiki/app/controllers/application_controller.rb",
+		"/Users/craigwermert/Sites/wiki/config/routes.rb",
+		"/Users/craigwermert/Sites/wiki/config/initializers/devise.rb",
+		"/Users/craigwermert/Sites/wiki/db/migrate/20130803123240_create_revisions.rb",
+		"/Users/craigwermert/Sites/wiki/db/migrate/20130803133900_create_pages.rb",
+		"/Users/craigwermert/Sites/wiki/app/models/status_name.rb",
+		"/Users/craigwermert/Sites/wiki/db/migrate/20130803155909_create_status_names.rb",
+		"/Users/craigwermert/Sites/wiki/db/migrate/20130803122756_devise_create_users.rb",
+		"/Users/craigwermert/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/craigwermert/Sites/wiki/Gemfile",
+		"/Users/craigwermert/Sites/wiki/config/initializers/rouge.rb",
+		"/Users/craigwermert/Sites/wiki/app/helpers/application_helper.rb",
+		"/Users/craigwermert/Sites/wiki/app/assets/stylesheets/rouge.css.erb",
+		"/Volumes/Storage/Downloads/johndyer-mediaelement-c52d79f/demo/mediaelementplayer-responsive.html",
+		"/Users/craigwermert/Sites/biorestor/dev/flowplayer-3.1.4.min.js",
+		"/Users/craigwermert/Sites/biorestor/dev/js/script.js",
+		"/Users/craigwermert/Sites/biorestor/dev/inc/stylesheets.php",
+		"/Users/craigwermert/Sites/biorestor/dev/inc/javascripts.php",
+		"/Users/craigwermert/Sites/biorestor/dev/current/page_top.inc",
+		"/Users/craigwermert/Sites/biorestor/dev/current/page_bot.inc",
+		"/Users/craigwermert/Sites/biorestor/dev/current/gsvideobar.css",
+		"/Users/craigwermert/Sites/biorestor/dev/current/gsearch.css",
+		"/Users/craigwermert/Sites/biorestor/dev/current/contentslider.css",
+		"/Users/craigwermert/Sites/biorestor.com/why_seal.php",
+		"/Users/craigwermert/Sites/corr/blog/app/assets/templates/index.html",
+		"/Users/craigwermert/Sites/corr/blog/app/assets/templates/new.html.erb",
+		"/Users/craigwermert/Sites/corr/blog/app/assets/javascripts/controllers/newController.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog/app/assets/javascripts/posts.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog/app/assets/javascripts/app.js.coffee.erb",
+		"/Users/craigwermert/Sites/corr/blog/config/routes.rb",
+		"/Users/craigwermert/Sites/corr/blog/config/database.yml",
+		"/Users/craigwermert/Sites/corr/blog/app/assets/javascripts/raffle.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog/app/assets/javascripts/controllers/indexController.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog/app/assets/javascripts/controllers/showController.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/templates/layouts/default.html.erb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/views/home/index.html.erb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/templates/posts/index.html.erb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/config/routes.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/app/main.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog_two/app/controllers/api/posts_controller.rb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/controllers/posts_controller.rb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/views/layouts/application.html.erb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/app/controllers/application-controller.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/app/controllers/tasks-controller.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/application.js",
+		"/Users/craigwermert/Sites/corr/blog_two/config/routes.rb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/angular-ui-router.js",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/config/utf8.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog_two/app/controllers/catrgories_controller.rb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/config/push-state.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/config/csrf.js.coffee",
+		"/Users/craigwermert/Sites/corr/blog_two/app/controllers/api/base_controller.rb",
+		"/Users/craigwermert/Sites/corr/blog_two/app/assets/javascripts/app/controllers/sessions-controller.js.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/craigwermert/Sites/side-proj/angular-app",
+			"/Users/craigwermert/Sites/side-proj/cms",
+			"/Users/craigwermert/Sites/reddit/everything-app/vendor/bundle/gems/ruby_reddit_api-0.2.6",
+			"~/Sites/biorestor.com",
+			"~/Sites/corr/blog_two, *.js.coffee",
+			"~/Sites/corr/blog_two"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"hideThumb",
+			"message",
+			"Message",
+			"message",
+			"#",
+			"Add a new page",
+			"this_user",
+			"/about.json",
+			"conso",
+			"image_url",
+			"url",
+			"    ",
+			"\"",
+			"jQuery",
+			"    ",
+			".rslides",
+			",",
+			"i ",
+			"imgur",
+			"    ",
+			"url",
+			"    ",
+			"input-large",
+			":age",
+			"_tag",
+			"../images/",
+			"flowp",
+			"Our Product",
+			"imgMonsterARun",
+			" Biorestor ",
+			"Entry",
+			"Raffler",
+			"Entry",
+			"user",
+			"User",
+			"task",
+			"description",
+			"Task",
+			"task",
+			"Task",
+			"task",
+			"Task",
+			"(?s)#.+?^",
+			"task",
+			"#{post",
+			"task",
+			"t_id",
+			"task_id",
+			"Task",
+			"entries",
+			"name",
+			"entry",
+			"Entry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"page",
+			"Page",
+			"page",
+			"  ",
+			"'",
+			"$",
+			"  ",
+			".slider",
+			"  ",
+			"gal",
+			"  ",
+			"input-large form-control",
+			":status",
+			"",
+			"../images/videoplayer/",
+			"imgSkelWave",
+			" BIORESTOR* ",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"body",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"",
+			"post",
+			"@post",
+			"post",
+			"p_id",
+			"post_id",
+			"Post",
+			"posts",
+			"title",
+			"post",
+			"Post"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/initializers/spree.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								624,
+								624
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/stylesheets/application.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/home/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "uss.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"g",
+				"Gemfile"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"show",
+				"views/show.slim"
+			],
+			[
+				"scr",
+				"public/js/script.js"
+			],
+			[
+				"sty",
+				"public/css/style.css"
+			],
+			[
+				"app",
+				"application.rb"
+			],
+			[
+				"rak",
+				"Rakefile"
+			],
+			[
+				"congi",
+				"config.ru"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"applica",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"pa",
+				"app/models/page.rb"
+			],
+			[
+				"pag",
+				"app/models/page.rb"
+			],
+			[
+				"revi",
+				"app/models/revision.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"appli",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"app.",
+				"app/assets/javascripts/app.js"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

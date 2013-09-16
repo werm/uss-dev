@@ -1,0 +1,26 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$navbar-default-bg: #00a952;
+//$navbar-default-border: other-green
+$navbar-default-brand-color: #fff;
+// $navbar-default-brand-hover-color;
+// $navbar-default-brand-hover-bg;
+// $navbar-default-color: #00b559;
+$navbar-default-link-color: #fff;
+
+$link-color: #00a952;
+
+@import 'twitter/bootstrap';
+
+body {
+  margin-top: 125px; /* adjust this if the height of the menu bar changes */
+}
+
+.nav {
+  margin-top: 18px; /* this is a faux center fix for the nav options - adjust this if you wish to change the logo height or the font of the menu items */
+}
+
+footer {
+  padding: 30px 0;  
+}
